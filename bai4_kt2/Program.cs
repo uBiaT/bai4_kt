@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace kiemtra2
+namespace bai4_kt2
 {
     internal class Program
     {
